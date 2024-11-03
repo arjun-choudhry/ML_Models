@@ -1,5 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/ipynb_checkpoints/
+**/.ipynb_checkpoints/
 /idea/
