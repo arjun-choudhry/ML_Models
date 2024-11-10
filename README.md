@@ -1,8 +1,11 @@
 My personal playground for dumping all the models I have coded on PyTorch. You may find the following treasuries:
 - Basics of PyTorch
 - Basic NLP/CV models
+- Profiling Basics
 - Advanced NLP Models
-  - Trainsformers implementation
+  - Transformers implementation
+
+Coming Soon
   - Transformers Optimization:
     - KV Caching
     - Speculative Decoding
